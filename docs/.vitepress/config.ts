@@ -1,14 +1,14 @@
 import { defineConfig } from 'vitepress'
 
 const pages = process.env.GITHUB_PAGES === 'true'
-const base = pages ? '/flutter_example/' : '/'
+const base = pages ? '/flutter-cookbook/' : '/'
 
 export default defineConfig({
   lang: 'zh-CN',
   title: 'flutter-cookbook',
   description: 'Package 模板工程集，记录 Package 的使用。',
   lastUpdated: true,
-  // 项目页地址是 /flutter_example/。GitHub Pages 不会把 /foo 转到 foo.html，线上关闭 cleanUrls。
+  // 项目页地址是 /flutter-cookbook/。GitHub Pages 不会把 /foo 转到 foo.html，线上关闭 cleanUrls。
   base,
   cleanUrls: !pages,
   head: [
@@ -61,7 +61,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/ArturoYi/flutter_example' },
+      { icon: 'github', link: 'https://github.com/ArturoYi/flutter-cookbook' },
     ],
 
     outline: {

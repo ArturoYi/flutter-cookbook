@@ -1,4 +1,4 @@
-# 构建文档并发布到 GitHub Pages：https://arturoyi.github.io/flutter_example/
+# 构建文档并发布到 GitHub Pages：https://arturoyi.github.io/flutter-cookbook/
 name: Deploy VitePress site to Pages
 
 on:

@@ -16,4 +16,4 @@ description: 新增 package 时同时补上示例、生成规则、调试配置�
 
 ## 问题
 
-缺陷、版本偏差和文档错误提交到 [GitHub Issues](https://github.com/ArturoYi/flutter_example/issues)。一条 Issue 对应一个 package 或一处文档错误，写明示例目录、运行平台、Flutter 版本与 package 版本，以及期望行为与实际行为。
+缺陷、版本偏差和文档错误提交到 [GitHub Issues](https://github.com/ArturoYi/flutter-cookbook/issues)。一条 Issue 对应一个 package 或一处文档错误，写明示例目录、运行平台、Flutter 版本与 package 版本，以及期望行为与实际行为。

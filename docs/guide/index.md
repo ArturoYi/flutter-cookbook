@@ -9,8 +9,8 @@ flutter-cookbook 收录已经接入过的 Flutter package。每个 package 单�
 文档站由 VitePress 构建，源文件位于 `docs/`。预览文档需要 Node.js 22 及以上。运行示例只依赖该目录声明的 Flutter 与 Dart，不依赖 Node.js。
 
 ```bash
-git clone https://github.com/ArturoYi/flutter_example.git
-cd flutter_example
+git clone https://github.com/ArturoYi/flutter-cookbook.git
+cd flutter-cookbook
 ```
 
 调试入口见 [launch.json](/guide/launch)。依赖安装、代码生成、运行与清理见 [脚本](/guide/scripts)。
